@@ -2,13 +2,20 @@ body {
   margin: 8px;
   display: block;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: rgb(243, 232, 184);
 }
+
 #mainHeading {
   color: red;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
-.funParagraph{
-
+.funParagraph {
   color: green;
+  }
+
+  img {
+    width: 900px;
+    height: 500px;
+    border-radius: 5%;
   }
