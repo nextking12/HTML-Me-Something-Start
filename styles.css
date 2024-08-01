@@ -1,11 +1,14 @@
+body {
+  margin: 8px;
+  display: block;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#mainHeading {
+  color: red;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
 
-p {
-    margin: 25px 50px 75px 100px;
-    padding: 25px 50px 75px 100px;
-    text-align: center;
-    
-  }
+.funParagraph{
 
-  h4 {
-    text-align: center;
+  color: green;
   }
